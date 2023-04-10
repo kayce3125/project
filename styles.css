@@ -183,7 +183,9 @@
 }
 .btn2{
     display: none;
-
+}
+.btn4{
+        display: none;
 
 }
 .text3{
@@ -384,9 +386,9 @@
     .text4{
         padding-left: 30px;
         padding-right: 20px;
-        color: #bdc0dc;
+        color: #d6d8e9;
         text-align: left;
-        font-size: 1rem;
+        font-size: 0.8rem;
         white-space: inherit;
         line-height: 1.9;
         margin-top: 0;
@@ -435,5 +437,15 @@
     border-radius: 100%;
     
   }
-    
+  .btn4{
+    width: 85%;
+    max-width: 90%;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    display:block;
+
+  }
 }
