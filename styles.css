@@ -448,4 +448,14 @@
     display:block;
 
   }
+    
+    @media only screen and (min-width: 600px){
+   .img2 {
+    display: block;
+    margin-left: 100%;
+        }
+        .body1 {
+    height: 600px;
+    background-color: #202654;
+}
 }
