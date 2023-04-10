@@ -302,9 +302,9 @@
         background-color: #202654;
     }
     .header{
-       width: 200px;
+       width: 100%;
         padding-left: 20px;
-        height: 200px;
+        height: 100%;
         max-width: 300px;
         max-height: 200px;
     }
